@@ -47,8 +47,5 @@ if choice1 == "left" :
 else :
     print("You fall into a deep spike pit and your adventure ends. Game Over.")
 
-git remote add origin https://github.com/omerfaltin/3.git
-git branch -M main
-git push -u origin main
 
 
